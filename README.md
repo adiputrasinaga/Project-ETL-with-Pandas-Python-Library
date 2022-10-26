@@ -2,8 +2,6 @@
 
 This project was carried out using Google Colab as an IDE, you can see that in the uploaded file there is a link to the file in the import.
 
-In this project, you are asked to process the registrant data for a hackathon organized by DQLab called DQThon.
-
 This dataset consists of 5000 rows of data (5000 registrants) in CSV (Comma-separated values) format and has several columns including:
 
 participant_id: ID of the participant/participant of the hackathon. This column is unique so each participant must have a different ID
